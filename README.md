@@ -1,5 +1,3 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
 [![Build Status](https://dev.azure.com/jarrodcollins0854/jarrodcollins/_apis/build/status/jcollins-devops.ContosoAir?branchName=master)](https://dev.azure.com/jarrodcollins0854/jarrodcollins/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
